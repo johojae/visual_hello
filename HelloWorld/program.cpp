@@ -6,4 +6,5 @@ int main()
 	printf("World is mine.\n");
 	printf("changed by master\n");
 	printf("changed by hotfix\n");
+	printf("changed by GitHub\n");
 }
