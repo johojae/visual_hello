@@ -8,4 +8,5 @@ int main()
 	printf("changed by hotfix\n");
 	printf("changed by GitHub\n");
 	printf("changed by VisualStudio\n");
+	printf("changed by GitHub for Pull test\n");
 }
